@@ -4,3 +4,6 @@
 *.scss.map
 #configuracion de visual studio code
 .vscode
+
+#agregando carpeta node_modules
+/node_modules
