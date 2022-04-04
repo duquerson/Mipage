@@ -7,3 +7,6 @@
 
 #agregando carpeta node_modules
 /node_modules
+
+#cargando cambios de pug next command pug index.pug -w -P -o /home/yeyo_soto/Escritorio/Milanding/Mipage
+#cargando cambios de sass next command sass -w style.scss:/home/yeyo_soto/Escritorio/Milanding/Mipage/public/css/style.css
